@@ -17,7 +17,7 @@ The analysis covers:
 - [Key Features](#key-features)  
 - [Main Findings](#main-findings)  
 - [Visualizations](#visualizations)  
-- [Future Work](#future-work)  
+ 
 
 ---
 

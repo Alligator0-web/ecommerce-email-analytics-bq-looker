@@ -72,7 +72,7 @@ The analysis uses e-commerce datasets from BigQuery (`DA` schema), including:
 - **Ranking tables**: country engagement rank by accounts and email activity  
 
 👉 *Example screenshot of Looker Studio dashboard:*  
-![Dashboard Screenshot](images/[Dashboard Screenshot](Screenshot%202025-09-18%20at%206.23.49%20PM.png)
+![Dashboard Screenshot](images/![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
